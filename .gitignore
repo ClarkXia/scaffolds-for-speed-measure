@@ -32,7 +32,7 @@ coverage
 *.temp.json
 
 # temp folder .ice
-examples/*/.ice
+*/.ice
 
 build
 .history
